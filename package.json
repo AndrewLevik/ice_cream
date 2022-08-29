@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Emil-Bayramov.github.io/not-last-child",
+  "homepage": "https://andrewlevik.github.io/ice_cream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /not-last-child/"
+    "build": "parcel build src/*.html --public-url /ice_cream/"
   },
   "repository": {
     "type": "git",
